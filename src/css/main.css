@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+.el-table {
+  margin-top: 15px;
+}
+
+.el-pagination {
+  margin-top: 15px;
+}
